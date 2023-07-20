@@ -69,7 +69,7 @@ services:
 ## Apache Configuration
 
 ### Automatic
-- The `setup.php` script will automatically create both `datasets/config.inc.php` and `.htacess` files
+- The `setup.php` script will automatically create both `datasets/config.inc.php` and `.htaccess` files
 
 ### Manual
 - Copy the configuration sample file `cp datasets/config.sample.inc.php datasets/config.inc.php`
